@@ -23,13 +23,13 @@ hspace="10" vspace="10">](img/home.png)
 [<img src="/img/options.jpg" align="center"
 width="200"
 hspace="10" vspace="10">](/img/options.jpg)
-[<img src="/img/scanned.jpg" align="right"
+[<img src="/img/scanned.jpg"
 width="200"
 hspace="10" vspace="10">](/img/scanned.jpg)
 
 ## Sample QR
-
-[<img src="/img/qr_face.png" align="right"
+<br>
+[<img src="/img/qr_face.png" align="left"
 width="200"
 hspace="10" vspace="10">](/img/qr_face.png)
 
