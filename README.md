@@ -33,6 +33,7 @@ hspace="10" vspace="10">](/img/scanned.jpg)
 width="200"
 hspace="10" vspace="10">](/img/qr_face.png)
 <br>
+
 ## Permissions
 
 On Android versions prior to Android 6.0, QRMLKIT requires the following permissions:
