@@ -15,6 +15,15 @@ The android app lets you:
 - Scan the QR code by taking picture with the camera.
 - Scan the QR code by accessing the image storage.
 
+## Permissions
+
+On Android versions prior to Android 6.0, QRMLKIT requires the following permissions:
+- Full Network Access.
+- Read and write access to external storage.
+- Camera access.
+
+The network access permissions are made use of for Firebase content. The external storage permission is used to read images for scanning.
+
 ## Screenshots
 
 [<img src="/img/home.jpg" align="left"
@@ -31,15 +40,5 @@ hspace="10" vspace="10">](/img/scanned.jpg)
 <br>
 <img src="/img/qr_face.png" align="left"
 width="200"
-hspace="10" vspace="10">(/img/qr_face.png)
+hspace="10" vspace="10">
 
-<br>
-
-## Permissions
-
-On Android versions prior to Android 6.0, QRMLKIT requires the following permissions:
-- Full Network Access.
-- Read and write access to external storage.
-- Camera access.
-
-The network access permissions are made use of for Firebase content. The external storage permission is used to read images for scanning.
