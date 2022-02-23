@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611687919282",
+    "project_id": "ml-firebase-project",
+    "storage_bucket": "ml-firebase-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611687919282:android:742c36d9017e5c043aa3ab",
+        "android_client_info": {
+          "package_name": "com.viet.qrmlkit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611687919282-644n6fhhags352kp5me2r0u9ce82vmcj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8vZSk1p2mQ6yHtj1V-DbyiFO3ZB5Q7-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611687919282-644n6fhhags352kp5me2r0u9ce82vmcj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
