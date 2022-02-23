@@ -29,9 +29,10 @@ hspace="10" vspace="10">](/img/scanned.jpg)
 
 ## Sample QR
 <br>
-[<img src="/img/qr_face.png" align="left"
+<img src="/img/qr_face.png" align="left"
 width="200"
-hspace="10" vspace="10">](/img/qr_face.png)
+hspace="10" vspace="10">(/img/qr_face.png)
+
 <br>
 
 ## Permissions
