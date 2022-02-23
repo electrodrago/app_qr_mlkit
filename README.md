@@ -23,7 +23,7 @@ hspace="10" vspace="10">](img/home.png)
 [<img src="/img/options.jpg" align="center"
 width="200"
 hspace="10" vspace="10">](/img/options.jpg)
-[<img src="/img/scanned.jpg"
+[<img src="/img/scanned.jpg" align="center"
 width="200"
 hspace="10" vspace="10">](/img/scanned.jpg)
 
@@ -32,7 +32,7 @@ hspace="10" vspace="10">](/img/scanned.jpg)
 [<img src="/img/qr_face.png" align="left"
 width="200"
 hspace="10" vspace="10">](/img/qr_face.png)
-
+<br>
 ## Permissions
 
 On Android versions prior to Android 6.0, QRMLKIT requires the following permissions:
